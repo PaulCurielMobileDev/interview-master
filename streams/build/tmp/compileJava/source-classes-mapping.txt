@@ -1,0 +1,10 @@
+io/github/eleventigerssc/interview/streams/Predicate.java
+ io.github.eleventigerssc.interview.streams.Predicate
+io/github/eleventigerssc/interview/streams/Consumer.java
+ io.github.eleventigerssc.interview.streams.Consumer
+io/github/eleventigerssc/interview/streams/Stream.java
+ io.github.eleventigerssc.interview.streams.Stream
+io/github/eleventigerssc/interview/streams/Function.java
+ io.github.eleventigerssc.interview.streams.Function
+io/github/eleventigerssc/interview/streams/Streams.java
+ io.github.eleventigerssc.interview.streams.Streams

@@ -1,0 +1,29 @@
+allprojects {
+
+    ext {
+        kotlinVersion = "1.3.72"
+    }
+
+    buildscript {
+        repositories {
+            mavenCentral()
+            jcenter()
+            google()
+        }
+
+        dependencies {
+            classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+        }
+    }
+
+    repositories {
+        mavenCentral()
+        jcenter()
+        google()
+    }
+}
+
+wrapper {
+    gradleVersion = '6.8.1'
+    distributionUrl = "https://services.gradle.org/distributions/gradle-${gradleVersion}-all.zip"
+}

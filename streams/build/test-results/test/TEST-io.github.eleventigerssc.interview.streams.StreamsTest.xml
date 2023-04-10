@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.eleventigerssc.interview.streams.StreamsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-10T19:32:50" hostname="MacBook-Pro-2.local" time="0.019">
+  <properties/>
+  <testcase name="forEach_iterateOverOriginal" classname="io.github.eleventigerssc.interview.streams.StreamsTest" time="0.01"/>
+  <testcase name="filter_useSuppliedPredicate" classname="io.github.eleventigerssc.interview.streams.StreamsTest" time="0.003"/>
+  <testcase name="from_newStream_doesNotManipulateIterable" classname="io.github.eleventigerssc.interview.streams.StreamsTest" time="0.001"/>
+  <testcase name="map_usesSuppliedMapper" classname="io.github.eleventigerssc.interview.streams.StreamsTest" time="0.001"/>
+  <testcase name="flatMap_useSuppliedMapper" classname="io.github.eleventigerssc.interview.streams.StreamsTest" time="0.001"/>
+  <testcase name="map_chained_usesSuppliedMappers" classname="io.github.eleventigerssc.interview.streams.StreamsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+io/github/eleventigerssc/interview/streams/StreamsTest.java
+ io.github.eleventigerssc.interview.streams.StreamsTest
+ io.github.eleventigerssc.interview.streams.StreamsTest$1
